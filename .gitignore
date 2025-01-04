@@ -6,3 +6,5 @@ code/python-env
 _build/
 dist/
 book.html
+.debris
+
