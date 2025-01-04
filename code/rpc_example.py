@@ -1,4 +1,5 @@
 from bitcoin.rpc import RawProxy
+from bitcoin.rpc import RawProxy
 
 # Create a connection to local Bitcoin Core node
 p = RawProxy()
